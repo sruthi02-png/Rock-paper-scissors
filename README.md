@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-App
+game
